@@ -1,0 +1,81 @@
+<html> 
+<head> 
+    <title> Mon emploi du temps</title>
+</head>
+<div style="text-align: center;">
+  <img src="c:\Users\Fatima Hannaoui\Downloads\html image 1.jpeg">
+</div>
+<body>
+<img src="c:\Users\Fatima Hannaoui\Downloads\image html 2.jpeg">
+<h3 style="text-align: right;"><u>Année Universitaire 2025-2026</u></h3>
+<h3 style="text-align: center;">Emploi Du Temps "Provisoire"__IAIL-S2</h3>
+<table border="1" align="center" style="width:100%;font-size:14px;">
+<tr>
+    <th bgcolor="silver"></th>
+    <th bgcolor="silver">9h A 10h30</th>
+    <th bgcolor="silver">10h30 A 12h</th>
+    <th bgcolor="silver">12h15 A 13h45</th>
+    <th bgcolor="silver">13h45 A 15h15</th>
+    <th bgcolor="silver">15h30 A 17h</th>
+    <th bgcolor="silver">17h A 18h30</th>
+</tr>
+
+<tr>
+    <td bgcolor="silver">Lundi</td>
+    <td>Programmation Python 2 <br> <a href ="message_prof.html"> M.laraqui</a><br> COURS -Amphi A</td>
+    <td>Algorithmes Et Programmation C2 <br>cours<a href ="message_prof.html">Prof H.Oudani</a> <br>Cours -Amphi A</td>
+    <td bgcolor="white"></td>
+    <td>Algorithmes Et Programmation c2 <br><font color="red">TD/TP Grp1-Salle P2</font><br><a href ="message_prof.html">  Prof H.Oudani</a></td>
+    <td>Programmation Python 2<br><font color="red"> TD/TP Grp3-Salle P2</font> <br> <a href ="message_prof.html"> Prof A.Elouardi</a></td>
+    <td>Programmation Python 2 <br><font color ="red">TD/TP Grp 2 Salle P2 </font><br><a href ="message_prof.html">Prof A.Elouardi</a></td>
+</tr>
+<tr>
+    <td bgcolor="silver">Mardi</td>
+    <td>Programmation Python 2<br><font color="red"> TD/TP Grp1-Salle P2</font> <br><a href ="message_prof.html"> Prof A.Elouardi</a></td>
+    <td bgcolor="white"></td>
+    <td>Digital Skills &Intilligence Artificielle<br>Cours-Amphi A <br><a href ="message_prof.html">Prof A . Elouardi</a></td>
+    <td>Digit Skills & Itilligence artificielle<br> TD/TP-Amphi A <br><a href ="message_prof.html">Prof A.Eloouardi</a></td>
+    <td bgcolor="white "></td>
+    <td bgcolor="white"></td>
+</tr>
+<tr>
+    <td bgcolor="silver">Mercredi</td>
+    <td bgcolor="white" ></td>
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+    <td>Algorithmes Et Programmation c2 <br><font color="red">TD/TP Grp1-Salle P2</font><br><a href ="message_prof.html">Prof H.Oudani</a></td>
+    <td>Algèbre 2 <br> TD-Amphi A <br><a href ="message_prof.html">Prof I.Boutaayamo</a></td>
+    <td>Analyse 2 <br>TD-Amphhi A<br> Prof A.Hadri</td>
+</tr>
+<tr>
+    <td bgcolor="silver">Jeudi</td>
+    <td>Traitement Du Singal <br> COURS -Amphi A<br><a href ="message_prof.html">Prof H.Azzahhafi</a></td>
+    <td>Traitement Du Singal <br> TD-Amphi A <br><a href ="message_prof.html">Prof H.Azzahhafi</a></td>
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+</tr>
+<tr>
+    <td bgcolor="silver">Vedredi</td>
+    <td>Algèbre 2 <br> Cours-Amphi C <br><a href ="message_prof.html">Prof I.Boutaayamo</a></td>
+    <td>Algèbre 2 <br> TD-Amphi A <br><a href ="message_prof.html">Prof I.Boutaayamo</a></td>     
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+</tr>
+<tr>
+    <td bgcolor="silver">Samedi</td> 
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+    <td bgcolor="white"></td>
+    <td>Programmation Web 1 <br><font color="red">TD/TP Grp2-Salle P2</font><br><a href ="message_prof.html">Prof A.Hakem</a></td>
+    <td>Programmation Web 1 <br>Cours-Salle P1<br><a href ="message_prof.html">Prof K.Omari</a></td>
+    <td>Programmation Web 1 <br><font color="red">TD/TP Grp1-Salle P2</font><br><a href ="message_prof.html">Prof K.Omari</a></td>
+</tr>
+</table>
+</body>
+</html>
+
+
